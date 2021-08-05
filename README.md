@@ -7,4 +7,4 @@
 
 
 <h3>if no person  in front of sensor, the led will trun off </h3><br>
- <img src="img/noperson.gif" alt="boxbase" width="400">
+ <img src="img/noperson1.gif" alt="boxbase" width="400">
