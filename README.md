@@ -7,4 +7,4 @@
 
 
 <h3>if person spend 3 second in front of sensor, the led will trun on </h3><br>
- <img src="" alt="boxbase" width="400">
+ <img src="noperson.gif" alt="boxbase" width="400">
